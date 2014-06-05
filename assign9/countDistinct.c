@@ -12,7 +12,7 @@
 
 */
 
-//By Hemant Arora
+//By Hemant 
 
 #include<stdio.h>
 #include<stdlib.h>
